@@ -1,0 +1,8 @@
+neobundle.vim
+neocomplete.vim
+neoinclude.vim
+neomru.vim
+nerdtree
+unite.vim
+vim-clang
+vimproc.vim
